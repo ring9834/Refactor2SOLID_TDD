@@ -1,0 +1,14 @@
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\bin\Debug\net9.0\ClassLib_UnitTest.deps.json
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\bin\Debug\net9.0\ClassLib_UnitTest.runtimeconfig.json
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\bin\Debug\net9.0\ClassLib_UnitTest.dll
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\bin\Debug\net9.0\ClassLib_UnitTest.pdb
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_UnitTest.csproj.AssemblyReference.cache
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_UnitTest.AssemblyInfoInputs.cache
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_UnitTest.AssemblyInfo.cs
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_UnitTest.csproj.CoreCompileInputs.cache
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_UnitTest.dll
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\refint\ClassLib_UnitTest.dll
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_UnitTest.pdb
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_UnitTest.genruntimeconfig.cache
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ref\ClassLib_UnitTest.dll

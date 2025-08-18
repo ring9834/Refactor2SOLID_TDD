@@ -1,0 +1,14 @@
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\bin\Debug\net9.0\ClassLib_Unitest.deps.json
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\bin\Debug\net9.0\ClassLib_Unitest.dll
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\bin\Debug\net9.0\ClassLib_Unitest.pdb
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_Unitest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_Unitest.AssemblyInfoInputs.cache
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_Unitest.AssemblyInfo.cs
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_Unitest.csproj.CoreCompileInputs.cache
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_Unitest.dll
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\refint\ClassLib_Unitest.dll
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_Unitest.pdb
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ref\ClassLib_Unitest.dll
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\bin\Debug\net9.0\ClassLib_Unitest.runtimeconfig.json
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_Unitest.csproj.AssemblyReference.cache
+D:\Projects_T\C#\Refactoring\ClassLib_Unitest\obj\Debug\net9.0\ClassLib_Unitest.genruntimeconfig.cache

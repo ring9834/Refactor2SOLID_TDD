@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xbu8bolziBs=",
+  "success": false,
+  "projectFilePath": "D:\\Projects_T\\C#\\Refactoring\\MyApp\\MyApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects_T\\C#\\Refactoring\\MyLibrary\\Refactor.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects_T\\C#\\Refactoring\\MyLibrary\\Refactor.csproj",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

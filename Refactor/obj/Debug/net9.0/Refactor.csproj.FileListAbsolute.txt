@@ -1,0 +1,16 @@
+D:\Projects_T\C#\Refactoring\Refactor\bin\Debug\net9.0\xunit.abstractions.dll
+D:\Projects_T\C#\Refactoring\Refactor\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+D:\Projects_T\C#\Refactoring\Refactor\bin\Debug\net9.0\Refactor.deps.json
+D:\Projects_T\C#\Refactoring\Refactor\bin\Debug\net9.0\Refactor.runtimeconfig.json
+D:\Projects_T\C#\Refactoring\Refactor\bin\Debug\net9.0\Refactor.dll
+D:\Projects_T\C#\Refactoring\Refactor\bin\Debug\net9.0\Refactor.pdb
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\Refactor.csproj.AssemblyReference.cache
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\Refactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\Refactor.AssemblyInfoInputs.cache
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\Refactor.AssemblyInfo.cs
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\Refactor.csproj.CoreCompileInputs.cache
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\Refactor.dll
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\refint\Refactor.dll
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\Refactor.pdb
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\Refactor.genruntimeconfig.cache
+D:\Projects_T\C#\Refactoring\Refactor\obj\Debug\net9.0\ref\Refactor.dll
